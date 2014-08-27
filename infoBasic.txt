@@ -1,0 +1,13 @@
+Overview
+This is an attempt to get django-basic-apps (dba) running.
+
+
+
+TODO
+Get it running
+
+
+
+Logs
+Wednesday 27 August 2014 10:09 AM CDT
+Started
